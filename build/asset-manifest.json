@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.996213e8.css",
+    "main.js": "/static/js/main.a569e481.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/CVJohanaEspaña.pdf": "/static/media/CVJohanaEspaña.48b833af1aeb1dc3f42a.pdf",
+    "static/media/profile.png": "/static/media/profile.8082cc703b3ed5384b75.png",
+    "static/media/home-main.png": "/static/media/home-main.06cf168b82255c14770e.png",
+    "static/media/HeroesApp.png": "/static/media/HeroesApp.2411332544b37277e6b0.png",
+    "static/media/MenuApp.png": "/static/media/MenuApp.f1ef9b7dab41d8de3c82.png",
+    "static/media/GifExpertApp.png": "/static/media/GifExpertApp.13640861a2e5a64d5697.png",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/JournalApp.png": "/static/media/JournalApp.205adc40aad8efe3a504.png",
+    "static/media/blackJackApp.png": "/static/media/blackJackApp.8b057937ad94bb550a0d.png",
+    "static/media/calendarApp.png": "/static/media/calendarApp.501ef6294345837ad522.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo.png": "/static/media/logo.b75bf79d0218c879fc76.png",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.996213e8.css.map": "/static/css/main.996213e8.css.map",
+    "main.a569e481.js.map": "/static/js/main.a569e481.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.996213e8.css",
+    "static/js/main.a569e481.js"
+  ]
+}
