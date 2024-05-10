@@ -48,9 +48,9 @@ function Projects() {
               imgPath={heroes}
               isBlog={false}
               title="Heroes App"
-              description="An app featuring a comprehensive database of Marvel and DC superheroes, complete with photos and detailed descriptions of each character's attributes. Built with JavaScript, React, Redux, and a search functionality, users can easily explore and find their favorite heroes."
+              description="An app with secure login functionality, allowing users to authenticate either with traditional username/password credentials or through Google Sign-In integration using Firebase authentication. Once logged in, users gain access to a comprehensive database of Marvel and DC superheroes, complete with photos and detailed descriptions of each character's attributes. Built with JavaScript, React, Redux, and a search functionality, the app enables users to easily explore and find their favorite heroes."
               ghLink="https://github.com/johanaes27/07-heroes-spa"
-              demoLink="https://662bfb1925ed7e14d98aab10--polite-klepon-5daed9.netlify.app/"              
+              demoLink="https://heroesappje.netlify.app/marvel"              
             />
           </Col>
 
