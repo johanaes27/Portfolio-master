@@ -39,7 +39,7 @@ function Projects() {
               title="Journal App"
               description="Secure journaling app with user authentication, built with JavaScript, React, Redux, Firebase, and Hooks. Capture your thoughts, ideas, and memories effortlessly, complete with titles, descriptions, and image uploads."
               ghLink="https://github.com/johanaes27/08-journal-app"
-              demoLink="https://glittering-baklava-1a98e6.netlify.app/"
+              demoLink="https://journalappje.netlify.app/"
             />
           </Col>
 
