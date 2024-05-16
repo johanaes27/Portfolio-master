@@ -61,7 +61,7 @@ function Projects() {
               title="BlackJack App"
               description="A sleek and engaging Blackjack game developed solely with JavaScript. Test your luck against the computer and experience the thrill of the casino from the comfort of your own device. Receive instant feedback on your wins and losses, making every hand a heart-pounding adventure."
               ghLink="https://github.com/johanaes27/js-vite-blackjack"
-              // demoLink="https://plant49-ai.herokuapp.com/"
+              demoLink="https://johanaes27.github.io/js-vite-blackjack/"
             />
           </Col>
 
@@ -72,7 +72,7 @@ function Projects() {
               title="GifExpertApp"
               description="A dynamic GIF search app powered by React, offering users a seamless experience to explore and discover a wide range of animated images. With its intuitive interface and robust search functionality, users can easily find their favorite GIFs for any occasion. Whether you're looking for a laugh or a reaction, GIFSearch has you covered."
               ghLink="https://github.com/johanaes27/react-gif-expert"
-              // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
+              demoLink="https://gif-expert-joha.netlify.app/"
             />
           </Col>
 
@@ -83,7 +83,7 @@ function Projects() {
               title="Menu App"
               description="A dynamic restaurant menu app built with React, offering users the convenience of filtering through breakfast, lunch, dinner, and shakes options. With its intuitive design and user-friendly interface, MenuMaster provides a seamless dining experience, allowing users to explore and select their favorite dishes with ease."
               ghLink="https://github.com/johanaes27/Menu"
-              // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
+              demoLink="https://menuappje.netlify.app/"
             />
           </Col>
         </Row>
