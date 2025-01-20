@@ -33,7 +33,13 @@ function ResumeNew() {
 
         <Row className="resume">
           <Document file={pdf} className="d-flex justify-content-center">
-            <Page pageNumber={1} scale={width > 786 ? 1.7 : 0.6} />
+            <div style={{ flexDirection: 'column' }}>
+              <Page pageNumber={1} scale={width > 786 ? 1.7 : 0.6} />
+              <div style={{ margin: '20px 0' }}>
+                <hr style={{ border: '1px solid #ccc', width: '100%' }} />
+              </div>
+              <Page pageNumber={2} scale={width > 786 ? 1.7 : 0.6} />
+            </div>
           </Document>
         </Row>
 
